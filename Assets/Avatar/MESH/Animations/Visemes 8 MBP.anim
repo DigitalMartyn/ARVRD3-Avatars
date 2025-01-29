@@ -1,0 +1,4109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Visemes 8 MBP
+  serializedVersion: 6
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.5549689, y: -0.4381889, z: -0.07362798, w: 0.70326304}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/upper_mouth_pos_bnd_jnt/upper_lip_L_outer_follicle_bnd_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.0006056972, y: 0, z: 0, w: 0.9999998}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.592165, y: -0.38644612, z: -0.6035625, w: 0.36839157}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/L_crease_3_follicle_bnd_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.6033344, y: -0.368765, z: -0.46711415, w: 0.53085244}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/L_crease_4_follicle_bnd_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.592165, y: 0.38644612, z: 0.6035625, w: 0.36839157}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/R_crease_3_follicle_bnd_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.6033344, y: 0.36876497, z: 0.46711415, w: 0.5308524}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/R_crease_4_follicle_bnd_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.82737404, y: -0.031942844, z: -0.19243686, w: 0.5266876}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/lower_lip_L_mid_follicle_bnd_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.6916815, y: -0.1468898, z: -0.4618901, w: 0.535404}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/lower_lip_L_outer_follicle_bnd_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.8197144, y: 0.069901526, z: 0.23287337, w: 0.51860607}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/lower_lip_R_mid_follicle_bnd_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.70103997, y: 0.09242879, z: 0.468054, w: 0.530024}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/lower_lip_R_outer_follicle_bnd_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.83568907, y: -0.0106908055, z: 0.0047478285, w: 0.5490783}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/lower_lip_center_follicle_bnd_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0, y: 0, z: 0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/upper_mouth_pos_bnd_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.33230552, y: -0.24003126, z: -0.09651543, w: 0.9069966}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/upper_mouth_pos_bnd_jnt/upper_lip_L_mid_follicle_bnd_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.33375424, y: 0.22151536, z: 0.08923104, w: 0.9119083}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/upper_mouth_pos_bnd_jnt/upper_lip_R_mid_follicle_bnd_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.5375047, y: 0.41384026, z: 0.08117145, w: 0.73023033}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/upper_mouth_pos_bnd_jnt/upper_lip_R_outer_follicle_bnd_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.34171742, y: -0.014759734, z: -0.005305406, w: 0.9396718}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/upper_mouth_pos_bnd_jnt/upper_lip_center_follicle_bnd_jnt
+  m_CompressedRotationCurves: []
+  m_EulerCurves: []
+  m_PositionCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.052558396, y: 0.01329013, z: -0.009176139}
+        inSlope: {x: -0.028669765, y: 0, z: 0}
+        outSlope: {x: -0.028669765, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/L_crease_3_follicle_bnd_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.0491477, y: -0.012407399, z: -0.019295229}
+        inSlope: {x: -0.038472995, y: 0, z: 0}
+        outSlope: {x: -0.038472995, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/L_crease_4_follicle_bnd_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.05225708, y: 0.01401587, z: -0.009180249}
+        inSlope: {x: 0.028669765, y: 0, z: 0}
+        outSlope: {x: 0.028669765, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/R_crease_3_follicle_bnd_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.04974308, y: -0.01194087, z: -0.019140199}
+        inSlope: {x: 0.038472995, y: 0, z: 0}
+        outSlope: {x: 0.038472995, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/R_crease_4_follicle_bnd_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.0167274, y: -0.005865349, z: 0.011221312}
+        inSlope: {x: -0.025365673, y: 0, z: 0}
+        outSlope: {x: -0.025365673, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/lower_lip_L_mid_follicle_bnd_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.030359227, y: -0.0005474577, z: -0.0018152889}
+        inSlope: {x: 0.00000012024488, y: 0, z: 0}
+        outSlope: {x: 0.00000012024488, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/lower_lip_L_outer_follicle_bnd_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.017752185, y: -0.005869046, z: 0.010827739}
+        inSlope: {x: 0.02120027, y: 0, z: 0}
+        outSlope: {x: 0.02120027, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/lower_lip_R_mid_follicle_bnd_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.03204515, y: 0.0005857848, z: -0.002136476}
+        inSlope: {x: -8.837336e-10, y: 0, z: 0}
+        outSlope: {x: -8.837336e-10, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/lower_lip_R_outer_follicle_bnd_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.0007035811, y: -0.007429219, z: 0.014078909}
+        inSlope: {x: -0.00046332076, y: 0, z: 0}
+        outSlope: {x: -0.00046332076, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/lower_lip_center_follicle_bnd_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0, y: 0.016586602, z: 0.1302764}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/upper_mouth_pos_bnd_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.013125183, y: 0.002135211, z: 0.006175106}
+        inSlope: {x: 0.007122881, y: 0, z: 0}
+        outSlope: {x: 0.007122881, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/upper_mouth_pos_bnd_jnt/upper_lip_L_mid_follicle_bnd_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.03307877, y: 0.003910413, z: 0.0017616791}
+        inSlope: {x: -0.058437593, y: 0, z: 0}
+        outSlope: {x: -0.058437593, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/upper_mouth_pos_bnd_jnt/upper_lip_L_outer_follicle_bnd_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.012361293, y: 0.0032570092, z: 0.006002867}
+        inSlope: {x: -0.0066080755, y: 0, z: 0}
+        outSlope: {x: -0.0066080755, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/upper_mouth_pos_bnd_jnt/upper_lip_R_mid_follicle_bnd_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.03308, y: 0.00391, z: 0.0017599999}
+        inSlope: {x: 0.057281308, y: 0, z: 0}
+        outSlope: {x: 0.057281308, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/upper_mouth_pos_bnd_jnt/upper_lip_R_outer_follicle_bnd_jnt
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.0002785601, y: 0.0007396783, z: 0.008125914}
+        inSlope: {x: 0.00083620235, y: 0, z: 0}
+        outSlope: {x: 0.00083620235, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/upper_mouth_pos_bnd_jnt/upper_lip_center_follicle_bnd_jnt
+  m_ScaleCurves: []
+  m_FloatCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: RootQ.x
+    path: 
+    classID: 95
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: RootQ.y
+    path: 
+    classID: 95
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: RootQ.z
+    path: 
+    classID: 95
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: RootQ.w
+    path: 
+    classID: 95
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: RootT.x
+    path: 
+    classID: 95
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: RootT.y
+    path: 
+    classID: 95
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: RootT.z
+    path: 
+    classID: 95
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1.028553
+        inSlope: -2.063377
+        outSlope: -2.063377
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: Jaw Close
+    path: 
+    classID: 95
+    script: {fileID: 0}
+  m_PPtrCurves: []
+  m_SampleRate: 60
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - serializedVersion: 2
+      path: 2869484258
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1244057734
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2343041786
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1787424926
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2310318281
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3958480392
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2553869724
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 438104242
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3052556572
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2019149427
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2829664463
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1602024816
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 0
+      attribute: 61
+      script: {fileID: 0}
+      typeID: 95
+      customType: 8
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 478788431
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 30583452
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1320692132
+      attribute: 1
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3052556572
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1616558948
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2869484258
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1244057734
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2343041786
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1787424926
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2310318281
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 478788431
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3958480392
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 30583452
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2553869724
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1320692132
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 438104242
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2019149427
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2829664463
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1602024816
+      attribute: 2
+      script: {fileID: 0}
+      typeID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 0
+      attribute: 10
+      script: {fileID: 0}
+      typeID: 95
+      customType: 8
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 0
+      attribute: 11
+      script: {fileID: 0}
+      typeID: 95
+      customType: 8
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 0
+      attribute: 12
+      script: {fileID: 0}
+      typeID: 95
+      customType: 8
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 0
+      attribute: 13
+      script: {fileID: 0}
+      typeID: 95
+      customType: 8
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 0
+      attribute: 7
+      script: {fileID: 0}
+      typeID: 95
+      customType: 8
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 0
+      attribute: 8
+      script: {fileID: 0}
+      typeID: 95
+      customType: 8
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 0
+      attribute: 9
+      script: {fileID: 0}
+      typeID: 95
+      customType: 8
+      isPPtrCurve: 0
+    pptrCurveMapping: []
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 0
+    m_StartTime: 0
+    m_StopTime: 0
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 0
+    m_LoopTime: 1
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: RootQ.x
+    path: 
+    classID: 95
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: RootQ.y
+    path: 
+    classID: 95
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: RootQ.z
+    path: 
+    classID: 95
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: RootQ.w
+    path: 
+    classID: 95
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: RootT.x
+    path: 
+    classID: 95
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: RootT.y
+    path: 
+    classID: 95
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: RootT.z
+    path: 
+    classID: 95
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.052558396
+        inSlope: -0.028669765
+        outSlope: -0.028669765
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/L_crease_3_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.01329013
+        inSlope: -0.0038276587
+        outSlope: -0.0038276587
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/L_crease_3_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.009176139
+        inSlope: 0.009847722
+        outSlope: 0.009847722
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/L_crease_3_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.0491477
+        inSlope: -0.038472995
+        outSlope: -0.038472995
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/L_crease_4_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.012407399
+        inSlope: -0.01192422
+        outSlope: -0.01192422
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/L_crease_4_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.019295229
+        inSlope: 3.1720685e-16
+        outSlope: 3.1720685e-16
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/L_crease_4_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.05225708
+        inSlope: 0.028669765
+        outSlope: 0.028669765
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/R_crease_3_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.01401587
+        inSlope: -0.0038276587
+        outSlope: -0.0038276587
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/R_crease_3_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.009180249
+        inSlope: 0.009847722
+        outSlope: 0.009847722
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/R_crease_3_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.04974308
+        inSlope: 0.038472995
+        outSlope: 0.038472995
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/R_crease_4_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.01194087
+        inSlope: -0.01192422
+        outSlope: -0.01192422
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/R_crease_4_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.019140199
+        inSlope: -1.7842888e-16
+        outSlope: -1.7842888e-16
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/R_crease_4_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.0167274
+        inSlope: -0.025365673
+        outSlope: -0.025365673
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/lower_lip_L_mid_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.005865349
+        inSlope: 0.022021366
+        outSlope: 0.022021366
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/lower_lip_L_mid_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.011221312
+        inSlope: 0.0018928903
+        outSlope: 0.0018928903
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/lower_lip_L_mid_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.030359227
+        inSlope: 0.00000012024488
+        outSlope: 0.00000012024488
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/lower_lip_L_outer_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.0005474577
+        inSlope: 0.000000004525035
+        outSlope: 0.000000004525035
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/lower_lip_L_outer_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.0018152889
+        inSlope: 0.000000021613285
+        outSlope: 0.000000021613285
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/lower_lip_L_outer_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.017752185
+        inSlope: 0.02120027
+        outSlope: 0.02120027
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/lower_lip_R_mid_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.005869046
+        inSlope: 0.021327354
+        outSlope: 0.021327354
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/lower_lip_R_mid_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.010827739
+        inSlope: -0.000038373506
+        outSlope: -0.000038373506
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/lower_lip_R_mid_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.03204515
+        inSlope: -8.837336e-10
+        outSlope: -8.837336e-10
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/lower_lip_R_outer_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.0005857848
+        inSlope: -0.0000000046095656
+        outSlope: -0.0000000046095656
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/lower_lip_R_outer_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.002136476
+        inSlope: 0.00000001921953
+        outSlope: 0.00000001921953
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/lower_lip_R_outer_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.0007035811
+        inSlope: -0.00046332076
+        outSlope: -0.00046332076
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/lower_lip_center_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.007429219
+        inSlope: 0.015536317
+        outSlope: 0.015536317
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/lower_lip_center_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.014078909
+        inSlope: -0.0015098705
+        outSlope: -0.0015098705
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/lower_lip_center_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/upper_mouth_pos_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.016586602
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/upper_mouth_pos_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.1302764
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/upper_mouth_pos_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.013125183
+        inSlope: 0.007122881
+        outSlope: 0.007122881
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/upper_mouth_pos_bnd_jnt/upper_lip_L_mid_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.002135211
+        inSlope: -0.0037622442
+        outSlope: -0.0037622442
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/upper_mouth_pos_bnd_jnt/upper_lip_L_mid_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.006175106
+        inSlope: -0.012751823
+        outSlope: -0.012751823
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/upper_mouth_pos_bnd_jnt/upper_lip_L_mid_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.03307877
+        inSlope: -0.058437593
+        outSlope: -0.058437593
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/upper_mouth_pos_bnd_jnt/upper_lip_L_outer_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.003910413
+        inSlope: -0.0076033813
+        outSlope: -0.0076033813
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/upper_mouth_pos_bnd_jnt/upper_lip_L_outer_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.0017616791
+        inSlope: -0.028225563
+        outSlope: -0.028225563
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/upper_mouth_pos_bnd_jnt/upper_lip_L_outer_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.012361293
+        inSlope: -0.0066080755
+        outSlope: -0.0066080755
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/upper_mouth_pos_bnd_jnt/upper_lip_R_mid_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.0032570092
+        inSlope: -0.0037441705
+        outSlope: -0.0037441705
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/upper_mouth_pos_bnd_jnt/upper_lip_R_mid_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.006002867
+        inSlope: -0.013042968
+        outSlope: -0.013042968
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/upper_mouth_pos_bnd_jnt/upper_lip_R_mid_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.03308
+        inSlope: 0.057281308
+        outSlope: 0.057281308
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/upper_mouth_pos_bnd_jnt/upper_lip_R_outer_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.00391
+        inSlope: -0.0007183946
+        outSlope: -0.0007183946
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/upper_mouth_pos_bnd_jnt/upper_lip_R_outer_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.0017599999
+        inSlope: -0.029884852
+        outSlope: -0.029884852
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/upper_mouth_pos_bnd_jnt/upper_lip_R_outer_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.0002785601
+        inSlope: 0.00083620235
+        outSlope: 0.00083620235
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/upper_mouth_pos_bnd_jnt/upper_lip_center_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.0007396783
+        inSlope: -0.017274413
+        outSlope: -0.017274413
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/upper_mouth_pos_bnd_jnt/upper_lip_center_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.008125914
+        inSlope: -0.026583435
+        outSlope: -0.026583435
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/upper_mouth_pos_bnd_jnt/upper_lip_center_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1.028553
+        inSlope: -2.063377
+        outSlope: -2.063377
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: Jaw Close
+    path: 
+    classID: 95
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.5549689
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/upper_mouth_pos_bnd_jnt/upper_lip_L_outer_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.4381889
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/upper_mouth_pos_bnd_jnt/upper_lip_L_outer_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.07362798
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/upper_mouth_pos_bnd_jnt/upper_lip_L_outer_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.70326304
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/upper_mouth_pos_bnd_jnt/upper_lip_L_outer_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.0006056972
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.9999998
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.592165
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/L_crease_3_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.38644612
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/L_crease_3_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.6035625
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/L_crease_3_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.36839157
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/L_crease_3_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.6033344
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/L_crease_4_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.368765
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/L_crease_4_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.46711415
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/L_crease_4_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.53085244
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/L_crease_4_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.592165
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/R_crease_3_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.38644612
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/R_crease_3_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.6035625
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/R_crease_3_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.36839157
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/R_crease_3_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.6033344
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/R_crease_4_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.36876497
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/R_crease_4_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.46711415
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/R_crease_4_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.5308524
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/R_crease_4_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.82737404
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/lower_lip_L_mid_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.031942844
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/lower_lip_L_mid_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.19243686
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/lower_lip_L_mid_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.5266876
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/lower_lip_L_mid_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.6916815
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/lower_lip_L_outer_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.1468898
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/lower_lip_L_outer_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.4618901
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/lower_lip_L_outer_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.535404
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/lower_lip_L_outer_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.8197144
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/lower_lip_R_mid_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.069901526
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/lower_lip_R_mid_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.23287337
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/lower_lip_R_mid_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.51860607
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/lower_lip_R_mid_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.70103997
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/lower_lip_R_outer_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.09242879
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/lower_lip_R_outer_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.468054
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/lower_lip_R_outer_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.530024
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/lower_lip_R_outer_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.83568907
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/lower_lip_center_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.0106908055
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/lower_lip_center_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.0047478285
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/lower_lip_center_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.5490783
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/lower_lip_center_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/upper_mouth_pos_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/upper_mouth_pos_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/upper_mouth_pos_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/upper_mouth_pos_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.33230552
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/upper_mouth_pos_bnd_jnt/upper_lip_L_mid_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.24003126
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/upper_mouth_pos_bnd_jnt/upper_lip_L_mid_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.09651543
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/upper_mouth_pos_bnd_jnt/upper_lip_L_mid_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.9069966
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/upper_mouth_pos_bnd_jnt/upper_lip_L_mid_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.33375424
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/upper_mouth_pos_bnd_jnt/upper_lip_R_mid_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.22151536
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/upper_mouth_pos_bnd_jnt/upper_lip_R_mid_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.08923104
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/upper_mouth_pos_bnd_jnt/upper_lip_R_mid_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.9119083
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/upper_mouth_pos_bnd_jnt/upper_lip_R_mid_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.5375047
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/upper_mouth_pos_bnd_jnt/upper_lip_R_outer_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.41384026
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/upper_mouth_pos_bnd_jnt/upper_lip_R_outer_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.08117145
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/upper_mouth_pos_bnd_jnt/upper_lip_R_outer_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.73023033
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/upper_mouth_pos_bnd_jnt/upper_lip_R_outer_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.34171742
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/upper_mouth_pos_bnd_jnt/upper_lip_center_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.014759734
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/upper_mouth_pos_bnd_jnt/upper_lip_center_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -0.005305406
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/upper_mouth_pos_bnd_jnt/upper_lip_center_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.9396718
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/upper_mouth_pos_bnd_jnt/upper_lip_center_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  m_EulerEditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.06940779
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -1.730113
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/L_crease_3_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -89.99999
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/L_crease_3_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -115.473274
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/L_crease_3_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 17.220655
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/L_crease_4_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -90
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/L_crease_4_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -99.91182
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/L_crease_4_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -1.730113
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/R_crease_3_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 89.99999
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/R_crease_3_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 115.473274
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/R_crease_3_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 17.220655
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/R_crease_4_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 90
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/R_crease_4_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 99.91183
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/R_crease_4_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -62.107796
+        inSlope: 35.66791
+        outSlope: 35.66791
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/lower_lip_L_mid_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 142.49962
+        inSlope: 23.318733
+        outSlope: 23.318733
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/lower_lip_L_mid_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -161.31743
+        inSlope: -20.336246
+        outSlope: -20.336246
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/lower_lip_L_mid_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -61.2054
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/lower_lip_L_outer_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 89.99999
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/lower_lip_L_outer_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -142.77371
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/lower_lip_L_outer_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -61.97882
+        inSlope: 34.47474
+        outSlope: 34.47474
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/lower_lip_R_mid_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -138.82825
+        inSlope: -18.594181
+        outSlope: -18.594181
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/lower_lip_R_mid_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 164.32368
+        inSlope: 16.125853
+        outSlope: 16.125853
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/lower_lip_R_mid_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -56.063747
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/lower_lip_R_outer_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -90.00001
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/lower_lip_R_outer_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 138.95796
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/lower_lip_R_outer_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -66.579994
+        inSlope: 37.39185
+        outSlope: 37.39185
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/lower_lip_center_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -177.16255
+        inSlope: -4.847951
+        outSlope: -4.847951
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/lower_lip_center_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 176.67076
+        inSlope: 4.399342
+        outSlope: 4.399342
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/jaw_pos_bnd_jnt/jaw_bnd_jnt/lower_mouth_pos_bnd_jnt/lower_lip_center_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/upper_mouth_pos_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/upper_mouth_pos_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/upper_mouth_pos_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -40.476288
+        inSlope: 48.59807
+        outSlope: 48.59807
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/upper_mouth_pos_bnd_jnt/upper_lip_L_mid_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -29.21444
+        inSlope: -1.2970746
+        outSlope: -1.2970746
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/upper_mouth_pos_bnd_jnt/upper_lip_L_mid_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -1.1714133
+        inSlope: 0.83598095
+        outSlope: 0.83598095
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/upper_mouth_pos_bnd_jnt/upper_lip_L_mid_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -57.683094
+        inSlope: 0.000011838715
+        outSlope: 0.000011838715
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/upper_mouth_pos_bnd_jnt/upper_lip_L_outer_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -90
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/upper_mouth_pos_bnd_jnt/upper_lip_L_outer_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 45.729507
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/upper_mouth_pos_bnd_jnt/upper_lip_L_outer_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -40.408936
+        inSlope: 48.59807
+        outSlope: 48.59807
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/upper_mouth_pos_bnd_jnt/upper_lip_R_mid_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 26.894962
+        inSlope: 1.2369931
+        outSlope: 1.2369931
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/upper_mouth_pos_bnd_jnt/upper_lip_R_mid_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1.11957
+        inSlope: -0.798076
+        outSlope: -0.798076
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/upper_mouth_pos_bnd_jnt/upper_lip_R_mid_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -58.45048
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/upper_mouth_pos_bnd_jnt/upper_lip_R_outer_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 81.24404
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/upper_mouth_pos_bnd_jnt/upper_lip_R_outer_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -38.585793
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/upper_mouth_pos_bnd_jnt/upper_lip_R_outer_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -39.968105
+        inSlope: 48.607338
+        outSlope: 48.607338
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.x
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/upper_mouth_pos_bnd_jnt/upper_lip_center_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -1.80295
+        inSlope: 0.009795437
+        outSlope: 0.009795437
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.y
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/upper_mouth_pos_bnd_jnt/upper_lip_center_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.008719572
+        inSlope: -0.006105468
+        outSlope: -0.006105468
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAngles.z
+    path: bnd_rig_grp/root_bnd_jnt/COG_bnd_jnt/spine_1_bnd_jnt/spine_2_bnd_jnt/chest_bnd_jnt/neck_bnd_jnt/head_bnd_jnt/upper_mouth_pos_bnd_jnt/upper_lip_center_follicle_bnd_jnt
+    classID: 4
+    script: {fileID: 0}
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_Events: []
